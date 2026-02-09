@@ -78,7 +78,7 @@ All visuals are available individually in `/visuals`.
 
 ---
 
-## 📝 Deliverables
+## Deliverables
 
 ### **Strategic Memo (5 pages)**  
 A concise, text-driven document summarizing the market logic, economics, prioritization, recommended entry strategy, and risks.
@@ -91,7 +91,7 @@ An Excel workbook containing all structured inputs used to generate Power BI cha
 
 ---
 
-## 🧭 Key Insights (High-Level)
+## Key Insights 
 
 - The C&I segment in UAE free zones demonstrates strong structural attractiveness driven by high solar resource, favorable economics, and ESG commitments by tenants.  
 - A clear **mid-market quality gap** exists between large EPCs (who focus on >1 MW projects) and small installers (who compete on price).  
@@ -101,7 +101,7 @@ An Excel workbook containing all structured inputs used to generate Power BI cha
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 - **Review the Strategic_Memo.pdf** for the full structured analysis.  
 - **Open the Market_Entry_Deck.pptx** to view the consultant-ready presentation.  
@@ -110,7 +110,7 @@ An Excel workbook containing all structured inputs used to generate Power BI cha
 
 ---
 
-## 🧑‍💻 Tools Used
+## Tools Used
 
 - Power BI  
 - Excel
@@ -120,5 +120,5 @@ An Excel workbook containing all structured inputs used to generate Power BI cha
 
 ---
 
-## 📄 License
+## License
 This project is intended for educational, analytical, and portfolio demonstration purposes.
