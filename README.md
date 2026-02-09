@@ -1,4 +1,4 @@
-# C&I Solar Market Entry Strategy — UAE Free Zones
+# C&I Solar Market Entry Strategy (UAE Free Zones_
 
 This repository presents a structured, consulting-style market entry strategy for the Commercial & Industrial (C&I) rooftop solar segment across major free zones in the United Arab Emirates. The project evaluates whether a mid-sized EPC (Engineering, Procurement, and Construction) firm should enter this market— and, if so, how to do it competitively and sustainably.
 
@@ -12,7 +12,6 @@ The analysis covers market drivers, customer economics, competitive dynamics, fr
 │
 ├── docs/
 │ ├── Strategic_Memo.pdf # 5-page market entry memo
-│ └── PowerBI_Visuals.pdf # Exported Power BI visuals
 │
 ├── deck/
 │ └── Market_Entry_Deck.pptx # 12-slide consulting-style deck
@@ -24,7 +23,7 @@ The analysis covers market drivers, customer economics, competitive dynamics, fr
 ├── irradiance.png # Visual 1 — Solar irradiance comparison
 ├── payback.png # Visual 2 — Payback waterfall
 ├── freezone_heatmap.png # Visual 3 — Free zone prioritization heatmap
-└── roadmap_gantt.png # Visual 4 — Execution roadmap (Gantt)
+└── roadmap_data.png # Visual 4 — Execution roadmap 
 ```
 
 ---
